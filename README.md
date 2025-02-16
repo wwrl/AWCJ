@@ -9,3 +9,5 @@ Analizę korespondencji
 Analizę głównych składowych (PCA)
 
 Hierarchiczne grupowanie danych
+
+#### The project was developed as part of a university project
